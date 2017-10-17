@@ -1,0 +1,660 @@
+ 0 (adj),WISE (HAZY)
+WISE (HAZY), 0 (adj)
+1 (adj),WHITE (WET HOT WEIRD)
+WHITE (WET HOT WEIRD), 1 (adj)
+2 (adj),HONEY (HAWAIIAN WINY WORN)
+HONEY (HAWAIIAN WINY WORN), 2 (adj)
+3 (adj),YUMMY (HOMO)
+YUMMY (HOMO), 3 (adj)
+4 (adj),RAW (WEARY HAIRY)
+RAW (WEARY HAIRY), 4 (adj)
+5 (adj),YELLOW (HOLY)
+YELLOW (HOLY), 5 (adj)
+6 (adj),HUGE (SHY)
+HUGE (SHY), 6 (adj)
+7 (adj),YUCKY (QUEER WEAK ICKY)
+YUCKY (QUEER WEAK ICKY), 7 (adj)
+8 (adj),WAVY (WAIF)
+WAVY (WAIF), 8 (adj)
+9 (adj),HAPPY (WEEPY HYPER)
+HAPPY (WEEPY HYPER), 9 (adj)
+00 (adj),SAUCY
+SAUCY, 00 (adj)
+01 (adj),SOOTY
+SOOTY, 01 (adj)
+02 (adj),SOON
+SOON, 02 (adj)
+03 (adj),AWESOME
+AWESOME, 03 (adj)
+04 (adj),SORE
+SORE, 04 (adj)
+05 (adj),SILLY
+SILLY, 05 (adj)
+06 (adj),SWISHY
+SWISHY, 06 (adj)
+07 (adj),SAGGY
+SAGGY, 07 (adj)
+08 (adj),SUAVE
+SUAVE, 08 (adj)
+09 (adj),SAPPY
+SAPPY, 09 (adj)
+10 (adj),DIZZY
+DIZZY, 10 (adj)
+11 (adj),DIE-HARD (TIDY)
+DIE-HARD (TIDY), 11 (adj)
+12 (adj),TINY
+TINY, 12 (adj)
+13 (adj),DUMB
+DUMB, 13 (adj)
+14 (adj),DRY
+DRY, 14 (adj)
+15 (adj),DULL
+DULL, 15 (adj)
+16 (adj),TOUCHY
+TOUCHY, 16 (adj)
+17 (adj),AD HOC
+AD HOC, 17 (adj)
+18 (adj),DAFFY (TOUGH)
+DAFFY (TOUGH), 18 (adj)
+19 (adj),TABOO (DOPEY)
+TABOO (DOPEY), 19 (adj)
+20 (adj),UNEASY (NICS)
+UNEASY (NICS), 20 (adj)
+21 (adj),NEAT (NUTTY)
+NEAT (NUTTY), 21 (adj)
+22 (adj),INANE (NEON)
+INANE (NEON), 22 (adj)
+23 (adj),ENEMY (NUMB)
+ENEMY (NUMB), 23 (adj)
+24 (adj),NARROW
+NARROW, 24 (adj)
+25 (adj),UNHOLY (ANAL)
+UNHOLY (ANAL), 25 (adj)
+26 (adj),NESH
+NESH, 26 (adj)
+27 (adj),UNIQUE (HUNKY INKY)
+UNIQUE (HUNKY INKY), 27 (adj)
+28 (adj),NIAVE
+NIAVE, 28 (adj)
+29 (adj),KNOBBY
+KNOBBY, 29 (adj)
+30 (adj),MESSY (MOSSY)
+MESSY (MOSSY), 30 (adj)
+31 (adj),MAD (MOODY)
+MAD (MOODY), 31 (adj)
+32 (adj),MEAN
+MEAN, 32 (adj)
+33 (adj),YUM-YUM
+YUM-YUM, 33 (adj)
+34 (adj),MERRY
+MERRY, 34 (adj)
+35 (adj),HOMELY (MELLOW)
+HOMELY (MELLOW), 35 (adj)
+36 (adj),MACHO (MUSHY)
+MACHO (MUSHY), 36 (adj)
+37 (adj),MURKY (MEEK)
+MURKY (MEEK), 37 (adj)
+38 (adj),MAUVAIS
+MAUVAIS, 38 (adj)
+39 (adj),AMBER (WIMPY)
+AMBER (WIMPY), 39 (adj)
+40 (adj),RACY (RAZZY)
+RACY (RAZZY), 40 (adj)
+41 (adj),RED (RUDE)
+RED (RUDE), 41 (adj)
+42 (adj),RUNNY (WRONG)
+RUNNY (WRONG), 42 (adj)
+43 (adj),ROOMY
+ROOMY, 43 (adj)
+44 (adj),HORROR
+HORROR, 44 (adj)
+45 (adj),ROYAL
+ROYAL, 45 (adj)
+46 (adj),RASH (RICK)
+RASH (RICK), 46 (adj)
+47 (adj),ROCKY (ROGUE)
+ROCKY (ROGUE), 47 (adj)
+48 (adj),ROUGH
+ROUGH, 48 (adj)
+49 (adj),RIPE (RUBY)
+RIPE (RUBY), 49 (adj)
+50 (adj),EYELESS (LACE LESSER)
+EYELESS (LACE LESSER), 50 (adj)
+51 (adj),OLD (WILD ELITE LATE LOUD)
+OLD (WILD ELITE LATE LOUD), 51 (adj)
+52 (adj),ALONE (LONE WOLLEN LYING)
+ALONE (LONE WOLLEN LYING), 52 (adj)
+53 (adj),LAME
+LAME, 53 (adj)
+54 (adj),LAIRY (vulgar/trashy; touchy usu while drunk)
+LAIRY (vulgar/trashy; touchy usu while drunk), 54 (adj)
+55 (adj),OHH-LA-LA (LILY LEAL (defn loyal;honest) HALAL)
+OHH-LA-LA (LILY LEAL (defn loyal;honest) HALAL), 55 (adj)
+56 (adj),LUSH (LARGE)
+LUSH (LARGE), 56 (adj)
+57 (adj),LOCO (LEAKY)
+LOCO (LEAKY), 57 (adj)
+58 (adj),OLIVE (ALOOF)
+OLIVE (ALOOF), 58 (adj)
+59 (adj),LOOPY
+LOOPY, 59 (adj)
+60 (adj),JUICY
+JUICY, 60 (adj)
+61 (adj),SHITTY
+SHITTY, 61 (adj)
+62 (adj),SHINY
+SHINY, 62 (adj)
+63 (adj),GIM (dfn neat/spruce)
+GIM (dfn neat/spruce), 63 (adj)
+64 (adj),CHEERY
+CHEERY, 64 (adj)
+65 (adj),AGILE (SHALLOW)
+AGILE (SHALLOW), 65 (adj)
+66 (adj),CHA CHA (WISHY WASHY)
+CHA CHA (WISHY WASHY), 66 (adj)
+67 (adj),SHAGGY (CHIC)
+SHAGGY (CHIC), 67 (adj)
+68 (adj),SHOW-OFF
+SHOW-OFF, 68 (adj)
+69 (adj),CHIPPY
+CHIPPY, 69 (adj)
+70 (adj),WAXY
+WAXY, 70 (adj)
+71 (adj),GAUDY (WICKED)
+GAUDY (WICKED), 71 (adj)
+72 (adj),CORNY
+CORNY, 72 (adj)
+73 (adj),GUMMY
+GUMMY, 73 (adj)
+74 (adj),GREY (GORY)
+GREY (GORY), 74 (adj)
+75 (adj),UGLY
+UGLY, 75 (adj)
+76 (adj),GUSHY
+GUSHY, 76 (adj)
+77 (adj),COCK-EYE (QUICK)
+COCK-EYE (QUICK), 77 (adj)
+78 (adj),GOOFY
+GOOFY, 78 (adj)
+79 (adj),COPPER (COBBY (dfn stock; stout; headstrong)
+COPPER (COBBY (dfn stock; stout; headstrong), 79 (adj)
+80 (adj),FUSSY (FUZZY)
+FUSSY (FUZZY), 80 (adj)
+81 (adj),FAT
+FAT, 81 (adj)
+82 (adj),FUNNY
+FUNNY, 82 (adj)
+83 (adj),FOAMY
+FOAMY, 83 (adj)
+84 (adj),FIERY (FREE)
+FIERY (FREE), 84 (adj)
+85 (adj),EVIL
+EVIL, 85 (adj)
+86 (adj),OAFISH
+OAFISH, 86 (adj)
+87 (adj),FAKE (VOGUE)
+FAKE (VOGUE), 87 (adj)
+88 (adj),VIVE (dfn lively animated forcible)
+VIVE (dfn lively animated forcible), 88 (adj)
+89 (adj),FUBAR
+FUBAR, 89 (adj)
+90 (adj),PIOUS (BOSSY PISSY)
+PIOUS (BOSSY PISSY), 90 (adj)
+91 (adj),BAD (PETTY)
+BAD (PETTY), 91 (adj)
+92 (adj),URBANE
+URBANE, 92 (adj)
+93 (adj),BALMY
+BALMY, 93 (adj)
+94 (adj),PORY (e.g. pourous)
+PORY (e.g. pourous), 94 (adj)
+95 (adj),BLUE
+BLUE, 95 (adj)
+96 (adj),POSH (PUSHY)
+POSH (PUSHY), 96 (adj)
+97 (adj),EPIC
+EPIC, 97 (adj)
+98 (adj),BEEFY
+BEEFY, 98 (adj)
+99 (adj),BEEPY (e.g. beeping)
+BEEPY (e.g. beeping), 99 (adj)
+0 (nouns),SAW (ASS)
+SAW (ASS), 0 (nouns)
+1 (nouns),YETI
+YETI, 1 (nouns)
+2 (nouns),HEN
+HEN, 2 (nouns)
+3 (nouns),HAM
+HAM, 3 (nouns)
+4 (nouns),OAR
+OAR, 4 (nouns)
+5 (nouns),EEL (HOLLY HELL)
+EEL (HOLLY HELL), 5 (nouns)
+6 (nouns),HEDGE
+HEDGE, 6 (nouns)
+7 (nouns),COW
+COW, 7 (nouns)
+8 (nouns),HIVE
+HIVE, 8 (nouns)
+9 (nouns),PIE BEE
+PIE BEE, 9 (nouns)
+00 (nouns),SAUCE
+SAUCE, 00 (nouns)
+01 (nouns),ACID
+ACID, 01 (nouns)
+02 (nouns),SWAN
+SWAN, 02 (nouns)
+03 (nouns),SUMO
+SUMO, 03 (nouns)
+04 (nouns),SEWER
+SEWER, 04 (nouns)
+05 (nouns),ASSHOLE
+ASSHOLE, 05 (nouns)
+06 (nouns),SACHET
+SACHET, 06 (nouns)
+07 (nouns),SOCK
+SOCK, 07 (nouns)
+08 (nouns),SIEVE
+SIEVE, 08 (nouns)
+09 (nouns),SOAP
+SOAP, 09 (nouns)
+10 (nouns),TASER
+TASER, 10 (nouns)
+11 (nouns),TUTU
+TUTU, 11 (nouns)
+12 (nouns),TON
+TON, 12 (nouns)
+13 (nouns),DAM
+DAM, 13 (nouns)
+14 (nouns),HYDRA
+HYDRA, 14 (nouns)
+15 (nouns),DOLL
+DOLL, 15 (nouns)
+16 (nouns),TISSUE (TUSH)
+TISSUE (TUSH), 16 (nouns)
+17 (nouns),ATTIC
+ATTIC, 17 (nouns)
+18 (nouns),THIEF
+THIEF, 18 (nouns)
+19 (nouns),TAPE
+TAPE, 19 (nouns)
+20 (nouns),NOOSE
+NOOSE, 20 (nouns)
+21 (nouns),KNIGHT
+KNIGHT, 21 (nouns)
+22 (nouns),NUN
+NUN, 22 (nouns)
+23 (nouns),GNOME
+GNOME, 23 (nouns)
+24 (nouns),NERO
+NERO, 24 (nouns)
+25 (nouns),NAIL
+NAIL, 25 (nouns)
+26 (nouns),NIETZCHE
+NIETZCHE, 26 (nouns)
+27 (nouns),EUNIC
+EUNIC, 27 (nouns)
+28 (nouns),KNIFE
+KNIFE, 28 (nouns)
+29 (nouns),HONEY BEE (WANNA BEE)
+HONEY BEE (WANNA BEE), 29 (nouns)
+30 (nouns),MAZE
+MAZE, 30 (nouns)
+31 (nouns),MOAT
+MOAT, 31 (nouns)
+32 (nouns),MOON
+MOON, 32 (nouns)
+33 (nouns),MEMO
+MEMO, 33 (nouns)
+34 (nouns),MAYOR
+MAYOR, 34 (nouns)
+35 (nouns),MOLE
+MOLE, 35 (nouns)
+36 (nouns),MUSH
+MUSH, 36 (nouns)
+37 (nouns),HAMMOCK
+HAMMOCK, 37 (nouns)
+38 (nouns),MAFIA
+MAFIA, 38 (nouns)
+39 (nouns),MOP
+MOP, 39 (nouns)
+40 (nouns),ROSE
+ROSE, 40 (nouns)
+41 (nouns),RIOT
+RIOT, 41 (nouns)
+42 (nouns),RHINO (URINE)
+RHINO (URINE), 42 (nouns)
+43 (nouns),RAM
+RAM, 43 (nouns)
+44 (nouns),AURORA HORROR ERROR
+AURORA HORROR ERROR, 44 (nouns)
+45 (nouns),REEL
+REEL, 45 (nouns)
+46 (nouns),RASH
+RASH, 46 (nouns)
+47 (nouns),RACK
+RACK, 47 (nouns)
+48 (nouns),RUFF
+RUFF, 48 (nouns)
+49 (nouns),ROPE
+ROPE, 49 (nouns)
+50 (nouns),LACE
+LACE, 50 (nouns)
+51 (nouns),LATHE
+LATHE, 51 (nouns)
+52 (nouns),LION
+LION, 52 (nouns)
+53 (nouns),LLAMA
+LLAMA, 53 (nouns)
+54 (nouns),LIAR
+LIAR, 54 (nouns)
+55 (nouns),LILY
+LILY, 55 (nouns)
+56 (nouns),LUGE
+LUGE, 56 (nouns)
+57 (nouns),LAKE
+LAKE, 57 (nouns)
+58 (nouns),LAVA
+LAVA, 58 (nouns)
+59 (nouns),LAB
+LAB, 59 (nouns)
+60 (nouns),CHESS JUICE
+CHESS JUICE, 60 (nouns)
+61 (nouns),SHADOW
+SHADOW, 61 (nouns)
+62 (nouns),GENIE
+GENIE, 62 (nouns)
+63 (nouns),GYM
+GYM, 63 (nouns)
+64 (nouns),SHOWER
+SHOWER, 64 (nouns)
+65 (nouns),JELLY
+JELLY, 65 (nouns)
+66 (nouns),JUDGE
+JUDGE, 66 (nouns)
+67 (nouns),HEDGEHOG
+HEDGEHOG, 67 (nouns)
+68 (nouns),CHEF
+CHEF, 68 (nouns)
+69 (nouns),JEEP
+JEEP, 69 (nouns)
+70 (nouns),KAZOO
+KAZOO, 70 (nouns)
+71 (nouns),COT
+COT, 71 (nouns)
+72 (nouns),CANOE
+CANOE, 72 (nouns)
+73 (nouns),GUM (GAME)
+GUM (GAME), 73 (nouns)
+74 (nouns),CROW (CHOIR GURU)
+CROW (CHOIR GURU), 74 (nouns)
+75 (nouns),IGLOO
+IGLOO, 75 (nouns)
+76 (nouns),CAGE
+CAGE, 76 (nouns)
+77 (nouns),GAG
+GAG, 77 (nouns)
+78 (nouns),CAVE
+CAVE, 78 (nouns)
+79 (nouns),COWBOY
+COWBOY, 79 (nouns)
+80 (nouns),FEZ (FUZZ VASE FACE)
+FEZ (FUZZ VASE FACE), 80 (nouns)
+81 (nouns),PHOTO
+PHOTO, 81 (nouns)
+82 (nouns),PHONE
+PHONE, 82 (nouns)
+83 (nouns),FOAM
+FOAM, 83 (nouns)
+84 (nouns),FIRE
+FIRE, 84 (nouns)
+85 (nouns),VALLEY
+VALLEY, 85 (nouns)
+86 (nouns),FUDGE
+FUDGE, 86 (nouns)
+87 (nouns),FOG
+FOG, 87 (nouns)
+88 (nouns),FIFE
+FIFE, 88 (nouns)
+89 (nouns),PHOBIA
+PHOBIA, 89 (nouns)
+90 (nouns),BUS
+BUS, 90 (nouns)
+91 (nouns),PATH
+PATH, 91 (nouns)
+92 (nouns),PIANO
+PIANO, 92 (nouns)
+93 (nouns),BOMB
+BOMB, 93 (nouns)
+94 (nouns),BRA
+BRA, 94 (nouns)
+95 (nouns),PILL
+PILL, 95 (nouns)
+96 (nouns),BADGE
+BADGE, 96 (nouns)
+97 (nouns),PIG
+PIG, 97 (nouns)
+98 (nouns),BUFFET
+BUFFET, 98 (nouns)
+99 (nouns),BABY (POOP)
+BABY (POOP), 99 (nouns)
+0 (verbs),SUE
+SUE, 0 (verbs)
+1 (verbs),TOW
+TOW, 1 (verbs)
+2 (verbs),WEAN
+WEAN, 2 (verbs)
+3 (verbs),AIM
+AIM, 3 (verbs)
+4 (verbs),WEAR
+WEAR, 4 (verbs)
+5 (verbs),HEAL
+HEAL, 5 (verbs)
+6 (verbs),SHOO
+SHOO, 6 (verbs)
+7 (verbs),QUEUE
+QUEUE, 7 (verbs)
+8 (verbs),VOW
+VOW, 8 (verbs)
+9 (verbs),HOP
+HOP, 9 (verbs)
+00 (verbs),SEIZE
+SEIZE, 00 (verbs)
+01 (verbs),CEDE
+CEDE, 01 (verbs)
+02 (verbs),SWOON
+SWOON, 02 (verbs)
+03 (verbs),SWIM
+SWIM, 03 (verbs)
+04 (verbs),SOAR
+SOAR, 04 (verbs)
+05 (verbs),SWELL
+SWELL, 05 (verbs)
+06 (verbs),SWISH
+SWISH, 06 (verbs)
+07 (verbs),SING
+SING, 07 (verbs)
+08 (verbs),SIEVE
+SIEVE, 08 (verbs)
+09 (verbs),SPY
+SPY, 09 (verbs)
+10 (verbs),DOWSE
+DOWSE, 10 (verbs)
+11 (verbs),TATTOO
+TATTOO, 11 (verbs)
+12 (verbs),TUNE
+TUNE, 12 (verbs)
+13 (verbs),DAM
+DAM, 13 (verbs)
+14 (verbs),TEAR
+TEAR, 14 (verbs)
+15 (verbs),TILE
+TILE, 15 (verbs)
+16 (verbs),DODGE
+DODGE, 16 (verbs)
+17 (verbs),DIG
+DIG, 17 (verbs)
+18 (verbs),DIVE
+DIVE, 18 (verbs)
+19 (verbs),TYPE
+TYPE, 19 (verbs)
+20 (verbs),WINCE
+WINCE, 20 (verbs)
+21 (verbs),KNIT
+KNIT, 21 (verbs)
+22 (verbs),NANNY
+NANNY, 22 (verbs)
+23 (verbs),NUMB
+NUMB, 23 (verbs)
+24 (verbs),HONOR
+HONOR, 24 (verbs)
+25 (verbs),KNEEL
+KNEEL, 25 (verbs)
+26 (verbs),HUNCH
+HUNCH, 26 (verbs)
+27 (verbs),KNOCK
+KNOCK, 27 (verbs)
+28 (verbs),ENVY
+ENVY, 28 (verbs)
+29 (verbs),NAP
+NAP, 29 (verbs)
+30 (verbs),AMUSE
+AMUSE, 30 (verbs)
+31 (verbs),MUTE
+MUTE, 31 (verbs)
+32 (verbs),MOAN
+MOAN, 32 (verbs)
+33 (verbs),MAIM
+MAIM, 33 (verbs)
+34 (verbs),MARRY
+MARRY, 34 (verbs)
+35 (verbs),MILL
+MILL, 35 (verbs)
+36 (verbs),MASH
+MASH, 36 (verbs)
+37 (verbs),MAKE
+MAKE, 37 (verbs)
+38 (verbs),MOVE
+MOVE, 38 (verbs)
+39 (verbs),MOP
+MOP, 39 (verbs)
+40 (verbs),ERASE
+ERASE, 40 (verbs)
+41 (verbs),ROT
+ROT, 41 (verbs)
+42 (verbs),IRON
+IRON, 42 (verbs)
+43 (verbs),RAM
+RAM, 43 (verbs)
+44 (verbs),ROAR
+ROAR, 44 (verbs)
+45 (verbs),RELAY
+RELAY, 45 (verbs)
+46 (verbs),URGE
+URGE, 46 (verbs)
+47 (verbs),RAKE
+RAKE, 47 (verbs)
+48 (verbs),RAVE
+RAVE, 48 (verbs)
+49 (verbs),WRAP
+WRAP, 49 (verbs)
+50 (verbs),LASSO
+LASSO, 50 (verbs)
+51 (verbs),WELD
+WELD, 51 (verbs)
+52 (verbs),ALIGN
+ALIGN, 52 (verbs)
+53 (verbs),LOOM
+LOOM, 53 (verbs)
+54 (verbs),LURE
+LURE, 54 (verbs)
+55 (verbs),LULL
+LULL, 55 (verbs)
+56 (verbs),LASH
+LASH, 56 (verbs)
+57 (verbs),LICK
+LICK, 57 (verbs)
+58 (verbs),LAUGH
+LAUGH, 58 (verbs)
+59 (verbs),ELOPE
+ELOPE, 59 (verbs)
+60 (verbs),CHASE
+CHASE, 60 (verbs)
+61 (verbs),CHEAT
+CHEAT, 61 (verbs)
+62 (verbs),CHAIN
+CHAIN, 62 (verbs)
+63 (verbs),CHIME
+CHIME, 63 (verbs)
+64 (verbs),SHOWER
+SHOWER, 64 (verbs)
+65 (verbs),SHELL
+SHELL, 65 (verbs)
+66 (verbs),JUDGE
+JUDGE, 66 (verbs)
+67 (verbs),CHOKE
+CHOKE, 67 (verbs)
+68 (verbs),SHAVE
+SHAVE, 68 (verbs)
+69 (verbs),SHAPE
+SHAPE, 69 (verbs)
+70 (verbs),KISS
+KISS, 70 (verbs)
+71 (verbs),GUIDE
+GUIDE, 71 (verbs)
+72 (verbs),CANE
+CANE, 72 (verbs)
+73 (verbs),COMB
+COMB, 73 (verbs)
+74 (verbs),GROW
+GROW, 74 (verbs)
+75 (verbs),WIGGLE
+WIGGLE, 75 (verbs)
+76 (verbs),CAGE
+CAGE, 76 (verbs)
+77 (verbs),CUCKOO
+CUCKOO, 77 (verbs)
+78 (verbs),COUGH
+COUGH, 78 (verbs)
+79 (verbs),HICCUP
+HICCUP, 79 (verbs)
+80 (verbs),FIZZ
+FIZZ, 80 (verbs)
+81 (verbs),AVOID
+AVOID, 81 (verbs)
+82 (verbs),PHONE
+PHONE, 82 (verbs)
+83 (verbs),FOAM
+FOAM, 83 (verbs)
+84 (verbs),FRY
+FRY, 84 (verbs)
+85 (verbs),FOOL
+FOOL, 85 (verbs)
+86 (verbs),FISH
+FISH, 86 (verbs)
+87 (verbs),FAKE
+FAKE, 87 (verbs)
+88 (verbs),FIFE
+FIFE, 88 (verbs)
+89 (verbs),FOB
+FOB, 89 (verbs)
+90 (verbs),PASS
+PASS, 90 (verbs)
+91 (verbs),PAT
+PAT, 91 (verbs)
+92 (verbs),PIN
+PIN, 92 (verbs)
+93 (verbs),PALM
+PALM, 93 (verbs)
+94 (verbs),BURY
+BURY, 94 (verbs)
+95 (verbs),BLOW
+BLOW, 95 (verbs)
+96 (verbs),POACH
+POACH, 96 (verbs)
+97 (verbs),BEG
+BEG, 97 (verbs)
+98 (verbs),BUFF
+BUFF, 98 (verbs)
+99 (verbs),PIPE
+PIPE, 99 (verbs)
